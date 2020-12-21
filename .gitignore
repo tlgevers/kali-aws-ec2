@@ -1,0 +1,4 @@
+.terraform*
+kali-ssh.pem
+public_key
+terraform*
